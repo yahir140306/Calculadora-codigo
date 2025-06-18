@@ -67,7 +67,7 @@ class Interfaz:
 
     def mostrarEnPantalla(self, valor):
         self.pantalla.configure(state="normal")
-        self.pantalla.delete("1.0", END)  # Borra antes de mostrar para evitar repetición
+        # self.pantalla.delete("1.0", END)  # Borra antes de mostrar para evitar repetición
         self.pantalla.insert(END, valor)
         self.pantalla.configure(state="disabled")
 
