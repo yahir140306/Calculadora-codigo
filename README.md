@@ -1,18 +1,12 @@
 # Calculadora con Python - Tkinter
 
-<hr>
-
-Calculadora que realiza operaciones basicas.
+## 📸 Vista previa
 
 ![alt text](Imagen.png)
 
 # 🧮 Calculadora en Python con Tkinter
 
 Una calculadora gráfica construida con `Tkinter`, la biblioteca estándar de interfaces gráficas en Python. Soporta operaciones básicas y puede ser usada tanto con el ratón como con el teclado.
-
-## 📸 Vista previa
-
-<img src="https://via.placeholder.com/600x300?text=Calculadora+Tkinter" alt="Captura de pantalla de la calculadora" width="600">
 
 ## 🚀 Características
 
